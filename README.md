@@ -31,6 +31,8 @@
 
 Dinosaur Runner Game - a replica of the endless runner game originally built into Google Chrome. It is an hidden game from Chrome offline mode where you avoid obstacles as long as possible.
 
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -39,19 +41,13 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. You can get all the coding and assets from the GitHub.
    ```sh
    git clone https://github.com/queenalimm/DinoRunGame.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Import to Microsoft Visual Studio to access the game.
+3. You can start the game by running the code.
+
 
 
 <!-- HOW TO PLAY -->
@@ -60,7 +56,6 @@ To get a local copy up and running follow these simple steps.
 Simply press the space bar and the dino will start running. Press the spacebar to jump over the obstacles (like cacti) in your path. The longer you hold the up arrow, the higher dino will jump.
 
 The longer you play, the faster the dino runs/the ground moves. Once you crash into something, the game is over and you have to restart (your score resets, too). You can play again by hitting the R key.
-
 
 
 
@@ -75,3 +70,5 @@ Amirah Akma - amirahakma24@gmail.com
 
 
 Project Link: [https://github.com/queenalimm/DinoRunGame](https://github.com/queenalimm/DinoRunGame)
+
+
