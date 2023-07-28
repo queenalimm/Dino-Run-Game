@@ -134,7 +134,7 @@ namespace Dino_Run_Game
             {
                 if (x is PictureBox && (string)x.Tag == "obstacle")
                 {
-                    position = this.ClientSize.Width + rand.Next(500, 800) + (x.Width * 10);
+                    position = this.ClientSize.Width + rand.Next(600, 1000) + (x.Width * 10);
 
                     x.Left = position;
                 }
