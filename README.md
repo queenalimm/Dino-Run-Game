@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple steps.
 1. Download and install a compatible .NET framework on your Windows machine.
 2. Clone or download the repository containing the Dino Run Game code.
    ```sh
-   git clone https://github.com/queenalimm/DinoRunGame.git
+   git clone https://github.com/queenalimm/Dino-Run-Game.git
    ```
 3. Open the solution in Visual Studio or your preferred C# IDE.
 4. Build the project to ensure there are no build errors.
@@ -96,4 +96,4 @@ Enjoy playing Dino Run Game and see how high you can score! If you encounter any
 
 Thank you for playing! Have fun!
 
-Project Link: [https://github.com/queenalimm/DinoRunGame](https://github.com/queenalimm/DinoRunGame)
+Project Link: [https://github.com/queenalimm/DinoRunGame](https://github.com/queenalimm/Dino-Run-Game)
